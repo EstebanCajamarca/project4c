@@ -27,4 +27,5 @@ def hailstone(n):
 
 
 # Testing
-print(hailstone(1000))
+answer = hailstone(1000)
+print(answer)
