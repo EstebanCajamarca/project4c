@@ -25,7 +25,6 @@ def hailstone(n):
     # returns value, number of iterations.
     return count
 
-
 # Testing
-answer = hailstone(1000)
-print(answer)
+# answer = hailstone(1000)
+# print(answer)
